@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {"name":"homepage renders","type":"smoke","path":"/"},
+    {"name":"collection filter controls","type":"interaction","path":"/"},
+    {"name":"WhatsApp links","type":"link","path":"/"},
+    {"name":"Google Maps directions","type":"link","path":"/"},
+    {"name":"mobile navigation","type":"interaction","path":"/"}
+  ]
+}
